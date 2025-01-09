@@ -1,0 +1,19 @@
+
+.bg{
+    background-image: url('../images/Banner\ Image.png');
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 900px;
+   
+   
+}
+.header-text{
+    text-align: center;
+    color: white;
+}
+.header-title{
+font-size:45px ;
+}
+.header-subtitle{
+font-size: 20px;
+}
